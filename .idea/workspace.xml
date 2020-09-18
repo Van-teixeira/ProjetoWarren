@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="997a57e9-9567-43ff-a61c-1a179d181199" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hW9UL9jtC1aDh1xJnjhdnfXmvZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.InformacoesUsuarioTest">
+    <configuration name="InformacoesUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeuBarriga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="Teste.InformacoesUsuarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InformacoesUsuarioTest.testRealizarUmCadastroDeUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeuBarriga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="Teste.InformacoesUsuarioTest" />
+      <option name="METHOD_NAME" value="testRealizarUmCadastroDeUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InformacoesUsuarioTest" />
+        <item itemvalue="JUnit.InformacoesUsuarioTest.testRealizarUmCadastroDeUsuario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997a57e9-9567-43ff-a61c-1a179d181199" name="Default Changelist" comment="" />
+      <created>1600115995934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600115995934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="280" y="31" key="#InformacoesUsuarioTest" timestamp="1600287770680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="31" key="#InformacoesUsuarioTest/0.0.1366.728@0.0.1366.728" timestamp="1600287770680" />
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom" timestamp="1600391073575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600391073575" />
+    <state width="1323" height="206" key="GridCell.Tab.0.center" timestamp="1600391073575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600391073575" />
+    <state width="1323" height="206" key="GridCell.Tab.0.left" timestamp="1600391073575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600391073575" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right" timestamp="1600391073575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600391073575" />
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1600383096409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600383096409" />
+    <state width="1323" height="218" key="GridCell.Tab.1.center" timestamp="1600383096409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600383096409" />
+    <state width="1323" height="218" key="GridCell.Tab.1.left" timestamp="1600383096409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600383096409" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right" timestamp="1600383096409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600383096409" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1600388676559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600388676559" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeuBarriga$InformacoesUsuarioTest.ic" NAME="InformacoesUsuarioTest Coverage Results" MODIFIED="1600288167927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Teste.*</FILTER>
+    </SUITE>
+  </component>
+</project>
